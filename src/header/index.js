@@ -54,9 +54,9 @@ const Headermain = () => {
             <div className="d-flex">
             <a href={socialprofils.facebook}>Facebook</a>
             <a href={socialprofils.github}>Github</a>
-            <a href={socialprofils.twitter}>linkedin</a>
-            <a href={socialprofils.instagram}>instagram</a>
-            <a href={socialprofils.tiktok}>tiktokk</a>
+            <a href={socialprofils.twitter}>Linkedin</a>
+            <a href={socialprofils.instagram}>Instagram</a>
+            <a href={socialprofils.tiktok}>Tiktok</a>
             </div>
             <p className="copyright m-0"> {logotext}</p>
           </div>

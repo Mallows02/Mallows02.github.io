@@ -7,12 +7,13 @@ const meta = {
 const introdata = {
     title: "I’m John Mherwin Flores Mariñas",
     animated: {
-        first: "I love Coffee",
-        second: "I'm into Music.",
-        third: "Always fucking tired.",
+        first: "A certified coffee enthusiast.",
+        second: "Prefers quiet environments over crowded outdoor spaces.",
+        third: "Testing.",
+       
     },
     description: "Currently pursuing a Bachelor's in Computer Science at FEU Institute of Technology, I have experience in secretarial roles and active engagement in the tech community. Certified in Java, Python, CCNA, and DevNet, I’m focused on developing my expertise in software engineering and contributing to innovative, future-forward projects.",
-    your_img_url: "https://scontent-mnl1-2.xx.fbcdn.net/v/t1.15752-9/472120929_502877816155026_1356169597522088366_n.png?stp=dst-png_s2048x2048&_nc_cat=102&ccb=1-7&_nc_sid=9f807c&_nc_ohc=-lnaPlKMGCgQ7kNvgELfKja&_nc_zt=23&_nc_ht=scontent-mnl1-2.xx&oh=03_Q7cD1gE72QS6CxuL4TFFJH296d9fGS9VEXoXpQLmew0d6D6S0w&oe=67A5E98E",
+    your_img_url: "https://miro.medium.com/v2/resize:fit:640/format:webp/1*vBi4Ycgdn5t3lu2SvQXuog.gif",
 };
 
 const dataabout = {
@@ -29,22 +30,22 @@ const worktimeline = [{
 
 const skills = [{
         name: "Python",
-        value: 80,
+        value: 0,
     },
     {
         name: "Javascript",
-        value: 50,
+        value: 0,
     },
     {
         name: "React",
-        value: 60,
+        value: 0,
     },
     {
         name: "C++",
-        value: 80,
+        value: 0,
     },{
         name: "Java",
-        value: 80,
+        value: 0,
     },
 ];
 
@@ -66,6 +67,15 @@ const services = [
         description: "Certified Cisco DevNet Associate with expertise in software development and automation, network programmability, and cloud applications. Skilled in using APIs, working with DevOps tools, and understanding network infrastructure and security principles to create scalable and efficient solutions. Demonstrates proficiency in Python, RESTful APIs, and network automation to enhance network operations.",
     },
     
+];
+
+const affiliation = [
+    {
+        title: "Association for Computing Machinery - FEU Institute of Technology Chapter ",
+        description: "Junior Officer Secretariat Committee ",
+        date: "Year:2022-2024",
+    },
+   
 ];
 
 const dataportfolio = [{
@@ -159,4 +169,5 @@ export {
     contactConfig,
     socialprofils,
     logotext,
+    affiliation,
 };
