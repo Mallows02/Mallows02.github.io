@@ -9,7 +9,8 @@ const introdata = {
     animated: {
         first: "A certified coffee enthusiast.",
         second: "Prefers quiet environments over crowded outdoor spaces.",
-        third: "Testing.",
+        third: "Passionate about video games and technology.",
+        fourt: "Takes pride in staying organized and managing time effectively.",
        
     },
     description: "Currently pursuing a Bachelor's in Computer Science at FEU Institute of Technology, I have experience in secretarial roles and active engagement in the tech community. Certified in Java, Python, CCNA, and DevNet, I’m focused on developing my expertise in software engineering and contributing to innovative, future-forward projects.",
