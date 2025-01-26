@@ -19,34 +19,40 @@ const introdata = {
 
 const dataabout = {
     title: "A bit about my self",
-    aboutme: "Currently pursuing a Bachelor's in Computer Science at FEU Institute of Technology, I have experience in secretarial roles and active engagement in the tech community. Certified in Java, Python, CCNA, and DevNet, I’m focused on developing my expertise in software engineering and contributing to innovative, future-forward projects.",
+    aboutme: "Hi there! I'm Mherwin, a coffee lover, gamer, and anime enthusiast. I enjoy exploring new things and staying curious about the world around me. Whether it's a quiet day with a good cup of coffee or diving into an exciting game, I always try to find balance in what I do. I believe in taking a simple and laid-back approach to life, finding joy in the little things. This site is a way for me to share a bit about myself and the things I’m passionate about. Feel free to explore, and if you’d like to connect, I’d love to hear from you!",
+
 };
 const worktimeline = [{
-        jobtitle: "BS Computer Science with Specialization in Software Engineerihg",
+        jobtitle: "Tertiary :  BS Computer Science with Specialization in Software Engineering",
         where: "Far Eastern University Institute of Technology",
         date: "2021 - Present",
+    },
+    {
+        jobtitle: "SHS: Science Technology Engineering Mathematics (STEM) ",
+        where: "National Christian Life College",
+        date: "2019 - 2021",
     },
    
 ];
 
 const skills = [{
         name: "Python",
-        value: 0,
+        value: 80,
     },
     {
         name: "Javascript",
-        value: 0,
+        value: 70,
     },
     {
         name: "React",
-        value: 0,
+        value: 70,
     },
     {
         name: "C++",
-        value: 0,
+        value: 80,
     },{
         name: "Java",
-        value: 0,
+        value: 80,
     },
 ];
 
@@ -80,66 +86,11 @@ const affiliation = [
 ];
 
 const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        img: "https://scontent-mnl1-1.xx.fbcdn.net/v/t1.15752-9/474439945_955355003203767_5286192443567958904_n.png?_nc_cat=109&ccb=1-7&_nc_sid=9f807c&_nc_ohc=nJgMmb3lnmcQ7kNvgFDBmTt&_nc_zt=23&_nc_ht=scontent-mnl1-1.xx&oh=03_Q7cD1gEPGsHtBTGQyVeTC5q8YWcY7cQKafmBwFvshdGAw26kFg&oe=67BE14C3",
+        description: "GatherInManila",
         link: "#",
     },
-    {
-        img: "https://picsum.photos/400/800/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-
-    {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/550/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
+    
 ];
 
 const contactConfig = {
